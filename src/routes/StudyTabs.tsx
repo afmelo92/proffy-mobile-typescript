@@ -59,7 +59,7 @@ const StudyTabs: React.FC = () => {
         name="Favorites" 
         component={Favorites} 
         options={{
-          tabBarLabel: 'Fvoritos',
+          tabBarLabel: 'Favoritos',
           tabBarIcon: ({
             color,
             size,
